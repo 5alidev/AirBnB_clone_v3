@@ -1,0 +1,299 @@
+[33mcommit 7197cc495dc0afaeca0326fa89e44f8a84b033cb[m
+Author: 5alidev <khalidbenhamou.dev@outlook.com>
+Date:   Tue May 28 01:37:49 2024 +0000
+
+    Reviews
+
+[33mcommit 6622f05d2912b16ed6a2f2f77894e3f5364b5ee7[m
+Author: 5alidev <khalidbenhamou.dev@outlook.com>
+Date:   Tue May 28 01:24:08 2024 +0000
+
+    Place
+
+[33mcommit a74f72151153d521b58ba77305e5e8ea6c06a5fe[m
+Author: 5alidev <khalidbenhamou.dev@outlook.com>
+Date:   Tue May 28 01:17:37 2024 +0000
+
+    User
+
+[33mcommit 0c797e22a1731b127a16405c333bdcfa40f35973[m
+Author: 5alidev <khalidbenhamou.dev@outlook.com>
+Date:   Tue May 28 01:14:57 2024 +0000
+
+    Amenity
+
+[33mcommit 15865474b0b2eebb282b62b769190101a4b891db[m
+Author: 5alidev <khalidbenhamou.dev@outlook.com>
+Date:   Tue May 28 01:11:15 2024 +0000
+
+    City
+
+[33mcommit b4bd38cc548635c492b6e0e7d643aa93601dfe03[m
+Author: 5alidev <khalidbenhamou.dev@outlook.com>
+Date:   Tue May 28 01:05:06 2024 +0000
+
+    State
+
+[33mcommit 5381ee25e44100c90625098995d0a9a7728fa0ef[m
+Author: 5alidev <khalidbenhamou.dev@outlook.com>
+Date:   Tue May 28 00:57:09 2024 +0000
+
+    Some stats
+
+[33mcommit 0c494ac83faa98fe4934496690aeb31643241b33[m
+Author: 5alidev <khalidbenhamou.dev@outlook.com>
+Date:   Tue May 28 00:26:32 2024 +0000
+
+    views
+
+[33mcommit fdaf012b04be3575b8df8819fd16ef4bbaf8ff45[m
+Author: 5alidev <khalidbenhamou.dev@outlook.com>
+Date:   Tue May 28 00:25:44 2024 +0000
+
+    v1 folder
+
+[33mcommit 37bab7408a059f0259a55b8a4554704795805e6d[m
+Author: 5alidev <khalidbenhamou.dev@outlook.com>
+Date:   Tue May 28 00:25:10 2024 +0000
+
+    api folder
+
+[33mcommit 7a5cf29fd65fd493a6fdf7788650df9bc7f86d94[m
+Merge: 6179f2c 1788b5e
+Author: Khalid Benhamou <144685538+5alidev@users.noreply.github.com>
+Date:   Tue May 28 01:02:29 2024 +0100
+
+    Merge pull request #2 from 5alidev/storage_get_count
+    
+    Storage get count
+
+[33mcommit 1788b5ec2b0fd687a169517c3fafbea66519b645[m
+Author: BousfihaHassan <bousfihahassan2019@gmail.com>
+Date:   Mon May 27 23:58:33 2024 +0000
+
+    edite file
+
+[33mcommit 665bed15b5508f61ce7af1718594e4265e52bfe8[m
+Author: BousfihaHassan <bousfihahassan2019@gmail.com>
+Date:   Mon May 27 23:56:52 2024 +0000
+
+    edite file
+
+[33mcommit 6179f2c90d18c5660748af95c66c1360e020c943[m
+Merge: 37bab73 9e079d7
+Author: Khalid Benhamou <144685538+5alidev@users.noreply.github.com>
+Date:   Tue May 28 00:37:39 2024 +0100
+
+    Merge pull request #1 from 5alidev/storage_get_count
+    
+    Storage get count
+
+[33mcommit 9e079d761b1e165729acc907f20df88458ffa282[m
+Author: BousfihaHassan <bousfihahassan2019@gmail.com>
+Date:   Mon May 27 23:30:35 2024 +0000
+
+    a
+
+[33mcommit 097af340cc2f5281746d760e86f332746837d14c[m
+Author: BousfihaHassan <bousfihahassan2019@gmail.com>
+Date:   Mon May 27 23:29:08 2024 +0000
+
+    a
+
+[33mcommit 2d53aa231bc60911009a1d157b5c42f4d359c214[m
+Author: BousfihaHassan <bousfihahassan2019@gmail.com>
+Date:   Mon May 27 23:27:26 2024 +0000
+
+    a
+
+[33mcommit 4fd6e8a1b2ad49eed6b413a79aa80b2fb1c0350b[m
+Author: BousfihaHassan <bousfihahassan2019@gmail.com>
+Date:   Mon May 27 23:20:07 2024 +0000
+
+    tests
+
+[33mcommit 12603e60cb0e10abf1506a42c87a25dc785473dc[m
+Author: BousfihaHassan <bousfihahassan2019@gmail.com>
+Date:   Mon May 27 23:15:53 2024 +0000
+
+    engine
+
+[33mcommit 37bab73540a12326b8d957d08485fc7b40e64dfd[m
+Author: 5alidev <khalidbenhamou.dev@outlook.com>
+Date:   Mon May 27 22:40:21 2024 +0000
+
+    authors and readme
+
+[33mcommit 0e0c3809a0163bc9e78f5689a9145452a504827f[m
+Author: Alexa Orrico <alexaorrico@gmail.com>
+Date:   Fri May 1 10:18:18 2020 -0700
+
+    Fix shebang
+
+[33mcommit ce73eb11972da52cf02d5fcc2c6976450dcc529c[m
+Author: alexaorrico <alexaorrico@gmail.com>
+Date:   Mon Dec 4 15:54:49 2017 +0000
+
+    add task 11
+
+[33mcommit 1c17062fd9be79a76999df332fd246370f8a5ffb[m
+Author: alexaorrico <alexaorrico@gmail.com>
+Date:   Mon Dec 4 15:09:13 2017 +0000
+
+    add task 10
+
+[33mcommit 5dd86571386bbf013c6cd79eb1539f5ff416dac4[m
+Author: alexaorrico <alexaorrico@gmail.com>
+Date:   Mon Dec 4 10:42:42 2017 +0000
+
+    fix placement of ending li tag
+
+[33mcommit d4ac2cd4d8c888eb265f8b2e07307611f3d54ce4[m
+Author: alexaorrico <alexaorrico@gmail.com>
+Date:   Mon Dec 4 10:21:00 2017 +0000
+
+    add task 9
+
+[33mcommit 315a5e80e8d07b774b7d637f3728c6268f9d21a4[m
+Author: alexaorrico <alexaorrico@gmail.com>
+Date:   Mon Dec 4 09:37:59 2017 +0000
+
+    fix conversion of dict into sorted list, fix typos
+
+[33mcommit 230cdfd5d3a9bcde4d3a6e36eb84184a9e25d140[m
+Author: alexaorrico <alexaorrico@gmail.com>
+Date:   Mon Dec 4 09:00:38 2017 +0000
+
+    add task 8
+
+[33mcommit e237352e132f2bfd4353444f44f51ddb95f7c882[m
+Author: alexaorrico <alexaorrico@gmail.com>
+Date:   Mon Dec 4 07:03:09 2017 +0000
+
+    fix shebang
+
+[33mcommit 3ad17070461a899e6ef8d79c43c6a3a6c11af8c9[m
+Author: alexaorrico <alexaorrico@gmail.com>
+Date:   Mon Dec 4 06:31:20 2017 +0000
+
+    add ability to specify class using a string
+
+[33mcommit 26b7d184cbde4d00e495c8719d02c414e5628606[m
+Author: alexaorrico <alexaorrico@gmail.com>
+Date:   Mon Dec 4 06:29:02 2017 +0000
+
+    add ability to specify class using a string
+
+[33mcommit bee153a5a010c726549b1c0e794747e0362668ab[m
+Author: alexaorrico <alexaorrico@gmail.com>
+Date:   Mon Dec 4 05:49:08 2017 +0000
+
+    make executable
+
+[33mcommit a17b75fab865ac486bb957db5eb529e62edce7c5[m
+Author: alexaorrico <alexaorrico@gmail.com>
+Date:   Mon Dec 4 05:46:32 2017 +0000
+
+    add close method to storage
+
+[33mcommit 3447e354f161ce5144ce97ce2d187e690dc9f4ad[m
+Author: alexaorrico <alexaorrico@gmail.com>
+Date:   Mon Dec 4 05:36:55 2017 +0000
+
+    add task 6
+
+[33mcommit 197b61bfec1f698806d041b94ec3ccb6fa5fa952[m
+Author: alexaorrico <alexaorrico@gmail.com>
+Date:   Mon Dec 4 05:30:05 2017 +0000
+
+    add task 5
+
+[33mcommit 0b8e2408df9ddfe1586fb999668e0a2bde1b967f[m
+Author: alexaorrico <alexaorrico@gmail.com>
+Date:   Mon Dec 4 05:28:51 2017 +0000
+
+    add task 5
+
+[33mcommit 9cb8a89d5c72e1a26feec68301ec4de60ac07490[m
+Author: alexaorrico <alexaorrico@gmail.com>
+Date:   Mon Dec 4 05:15:51 2017 +0000
+
+    add task 4
+
+[33mcommit 75b0e4f5cdaf90b5cf7230322ceb67ae78d23bcf[m
+Author: alexaorrico <alexaorrico@gmail.com>
+Date:   Mon Dec 4 05:09:29 2017 +0000
+
+    add task 3
+
+[33mcommit 6b35649614d58e88df5a86cd2053372946cfe9f7[m
+Author: alexaorrico <alexaorrico@gmail.com>
+Date:   Mon Dec 4 05:01:45 2017 +0000
+
+    add task 2
+
+[33mcommit 5d203fbc19a3dbbf6b07567fea2445dbe3e0aab9[m
+Author: alexaorrico <alexaorrico@gmail.com>
+Date:   Mon Dec 4 04:38:06 2017 +0000
+
+    add task 1
+
+[33mcommit b6cfef293dd74013d99ab143ca04677a97d22904[m
+Author: alexaorrico <alexaorrico@gmail.com>
+Date:   Mon Dec 4 04:34:51 2017 +0000
+
+    make executable
+
+[33mcommit 90b2d7d8a04cabc69d8396493b970e85586e62f8[m
+Author: alexaorrico <alexaorrico@gmail.com>
+Date:   Mon Dec 4 04:32:42 2017 +0000
+
+    test
+
+[33mcommit a97d0dd9c434a7ffdc14c57e9800e3d3f21bddac[m
+Author: alexaorrico <alexaorrico@gmail.com>
+Date:   Mon Dec 4 04:28:35 2017 +0000
+
+    add web_flask
+
+[33mcommit 4783bcc8c09e723bba4f59906129134ac5174b4d[m
+Author: alexaorrico <alexaorrico@gmail.com>
+Date:   Fri Nov 17 15:57:59 2017 +0000
+
+    add functions to script instead of import
+
+[33mcommit 4e6c02ad8a7c6a0cc425d699fd80d468cbd375c3[m
+Author: alexaorrico <alexaorrico@gmail.com>
+Date:   Fri Nov 17 15:37:57 2017 +0000
+
+    add server info
+
+[33mcommit e87e51e76fb6147aa6a815349d81f6906faa42c6[m
+Author: alexaorrico <alexaorrico@gmail.com>
+Date:   Fri Nov 17 15:26:09 2017 +0000
+
+    combine fabfiles into one script
+
+[33mcommit ac26bfb95a1e65ea50d1c912fd4179f4da61e49c[m
+Author: alexaorrico <alexaorrico@gmail.com>
+Date:   Fri Nov 17 15:05:06 2017 +0000
+
+    distributes archive to the web servers
+
+[33mcommit 4ce882a51000f79bcb59919c40e73bdfa03c40f4[m
+Author: alexaorrico <alexaorrico@gmail.com>
+Date:   Fri Nov 17 13:34:57 2017 +0000
+
+    script to generate a tgz
+
+[33mcommit 2459ad375b095107185a6d905ebf7d426581f6b7[m
+Author: alexaorrico <alexaorrico@gmail.com>
+Date:   Fri Nov 17 12:04:38 2017 +0000
+
+    set-up script for web_static
+
+[33mcommit 95281ef64d10c8339b38568c800dfbb3c8546a2c[m
+Author: alexaorrico <alexaorrico@gmail.com>
+Date:   Thu Nov 16 03:00:41 2017 +0000
+
+    fix unittest
